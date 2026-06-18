@@ -1,0 +1,3 @@
+A ideia inicial é fazer o trabalho, conseguir aplicar a filtragem e mostrar o grafico da convolucao. Se sobrar tempo, tentar fazer uma pagina web com o back-end em python, em que a pessoa vai "upar" a foto dela e vai ser aplicado o filtro que ela escolher.
+-> python back-end
+-> deploy
